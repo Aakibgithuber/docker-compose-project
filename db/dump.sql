@@ -37,11 +37,9 @@ CREATE TABLE `todos` (
 --
 
 INSERT INTO `todos` (`_id`, `todo`) VALUES
-(1, 'I will wake up at 4 in the morining.'),
-(2, 'I will practice docker for 1 hour.'),
-(3, 'I will give time for 2 hours javascript.'),
-(4, 'Then I will have breakfast.'),
-(5, 'I will give time for 3 hours php.');
+(1, 'This is ask for a date app.'),
+(2, 'Build using docker compose.'),
+(3, 'Edit dump.sql file to make changes in databse.');
 
 --
 -- Indexes for dumped tables
